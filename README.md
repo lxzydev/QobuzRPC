@@ -49,4 +49,4 @@ Supported browsers: Chrome, Chromium, Brave, Firefox, Opera, Opera GX, Edge, Saf
  - Native Linux support (waiting on Qobuz to release a Linux app)
 
 #### Misc
-Originally written by [Lockna](mailto:raphael.ob@protonmail.com) (`Lockna#5599`).
+Originally written by [Lockna](https://github.com/Lockna/qobuz-rpc) (`Lockna#5599`).
