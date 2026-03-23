@@ -4,6 +4,7 @@ A simple discord rich presence client for qobuz written in Python
 Originally Windows-only. Now supports **Windows**, **Mac**, and **Linux** via browser (web player).
 
 > **Linux note:** Qobuz has no native Linux app, so Linux support works through the web player in your browser. Not native, but it works.
+
 > **Closing instantly:** If the .py file closes instantly the likely fix is to run it as admin through cmd
 
 ## Features
